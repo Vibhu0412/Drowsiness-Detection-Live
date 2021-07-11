@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-auruh)9ry@+d9ppkf9@m^6db=rnscz*-w%zyeo50(aknzlmel%
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['vs-drowsiness-detection.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['vs-drowsiness-detection.herokuapp.com','127.0.0.1','.herokuapp.com']
 
 
 # Application definition
